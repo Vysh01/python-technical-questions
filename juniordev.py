@@ -89,7 +89,7 @@ def rev_sentence(sentence):
 
 
 # Driver Code
-input = 'TheCodeCIty'
+input = 'The Code City'
 print(rev_sentence(input))
 
 
